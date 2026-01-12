@@ -7,5 +7,5 @@ server:
 
 eureka:
   client:
-    register-with-eureka: false # No se registra a sí mismo
+    register-with-eureka: false # No se registra a si mismo
     fetch-registry: false
